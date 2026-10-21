@@ -32,7 +32,7 @@ Destaque nomes de serviços (Microsoft Foundry, Azure AI Agent Service), passos 
 Sempre ancore as respostas nos trechos de referência das aulas e documentações oficiais.
 ```
 
-💬 Validação e Citações
+## 💬 Validação e Citações
 Pergunta Realizada:
 "Quais os primeiros passos na criação de agentes com Microsoft Foundry?"
 
